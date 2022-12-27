@@ -18,4 +18,4 @@ using [`Bitmojidata`](https://drive.google.com/file/d/1atMwmdOJe_fqG8Tyg5eqxZ-iD
 
 ## Result
 Here are My results of Train:
-![TrainPic](out/train.png)
+![TrainPic](out/QQ图片20221227160315.png)
